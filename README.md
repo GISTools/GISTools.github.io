@@ -5,11 +5,9 @@ This is the website for sharing tools and maps developed for my peer-reviewed pu
 Wu, Q. and C.R. Lane. 2016. Delineating wetland catchments and modeling hydrologic connectivity using LiDAR data and aerial imagery. *Hydrology and Earth Systems Science Discussion*.
 
 ### Maps
-
-* [Pipestem Inundation Mapping](http://wetlands.io/maps/inundation.html)
-* [Pipestem Hydrologic Connectivity Mapping](http://wetlands.io/maps/connectivity.html)
+  [Pipestem Inundation Mapping](http://wetlands.io/maps/inundation.html)
+  [Pipestem Hydrologic Connectivity Mapping](http://wetlands.io/maps/connectivity.html)
 
 ### Tools
-
-* [Wetland Hydrology Analyst](https://goo.gl/forms/6Oy0uWODT6YtSisI2)
+  [Wetland Hydrology Analyst](https://goo.gl/forms/6Oy0uWODT6YtSisI2)
 

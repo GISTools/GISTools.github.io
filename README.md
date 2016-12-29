@@ -6,6 +6,7 @@ Wu, Q. and C.R. Lane. 2016. Delineating wetland catchments and modeling hydrolog
 
 ### Maps
   [Pipestem Inundation Mapping](http://wetlands.io/maps/inundation.html)
+  
   [Pipestem Hydrologic Connectivity Mapping](http://wetlands.io/maps/connectivity.html)
 
 ### Tools

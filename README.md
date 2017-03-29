@@ -15,7 +15,7 @@ Wang, S. and Wu, Q. 2017. Automated extraction and characterization of drumlins 
 
 <h2 id="2017-HESS">2017 - Hydrology and Earth System Sciences</h2>
 
-Wu, Q. and C.R. Lane. 2017. Delineating wetland catchments and modeling hydrologic connectivity using LiDAR data and aerial imagery. *Hydrology and Earth Systems Science Discussion*.
+Wu, Q. and C.R. Lane. 2017. Delineating wetland catchments and modeling hydrologic connectivity using LiDAR data and aerial imagery. *Hydrology and Earth Systems Science Discussion*. DOI: [10.5194/hess-2017-1](http://dx.doi.org/10.5194/hess-2017-1)
 
 **Maps**
 

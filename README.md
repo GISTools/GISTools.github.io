@@ -4,7 +4,7 @@ This is the website for sharing tools and maps developed for my peer-reviewed pu
 
 <h2 id="drumlin">2017 - International Journal of Applied Earth Observation and Geoinformation</h2>
 
-Wang, S. and Wu, Q. 2017. Automated extraction and characterization of drumlins using a localized contour-tree approach. *International Journal of Applied Earth Observation and Geoinformation* (under review).
+Wang, S., Q. Wu, and D. Ward 2017. Automated extraction and characterization of drumlins using a localized contour-tree approach. *International Journal of Applied Earth Observation and Geoinformation* (under review).
 
 **Maps**
 
@@ -16,7 +16,7 @@ Wang, S. and Wu, Q. 2017. Automated extraction and characterization of drumlins 
 
 <h2 id="wetland-connectivity">2017 - Hydrology and Earth System Sciences</h2>
 
-Wu, Q. and C.R. Lane. 2017. Delineating wetland catchments and modeling hydrologic connectivity using LiDAR data and aerial imagery. *Hydrology and Earth Systems Science Discussion*. DOI: [10.5194/hess-2017-1](http://dx.doi.org/10.5194/hess-2017-1)
+Wu, Q. and C.R. Lane. 2017. Delineating wetland catchments and modeling hydrologic connectivity using LiDAR data and aerial imagery. *Hydrology and Earth Systems Sciences Discussion*. DOI: [10.5194/hess-2017-1](http://dx.doi.org/10.5194/hess-2017-1)
 
 **Maps**
 

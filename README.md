@@ -8,7 +8,7 @@ Wang, S. and Wu, Q. 2017. Automated extraction and characterization of drumlins 
 
 **Maps**
 
-* [Mapping New York Drumlin Field](http://#)
+* [Mapping New York Drumlin Field](http://gistools.github.io#drumlin)
 
 **Tools**
 

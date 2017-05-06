@@ -8,7 +8,7 @@ Wang, S. and Wu, Q. 2017. Automated extraction and characterization of drumlins 
 
 **Maps**
 
-* [Mapping New York Drumlin Field](http://wetlands.io/maps/inundation.html)
+* [Mapping New York Drumlin Field](http://#)
 
 **Tools**
 

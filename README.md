@@ -12,7 +12,7 @@ Wang, S., Q. Wu, and D. Ward 2017. Automated extraction and characterization of 
 
 **Tools**
 
-* [Drumlin Extraction Toolbox](https://goo.gl/forms/V1VfaWOnRvGmkDsx2)
+* [Drumlin Extraction Toolbox](https://goo.gl/aEePPW)
 
 <h2 id="wetland-connectivity">2017 - Hydrology and Earth System Sciences</h2>
 

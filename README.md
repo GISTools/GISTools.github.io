@@ -13,8 +13,8 @@ Wang, S., Q. Wu, and D. Ward 2017. Automated extraction and characterization of 
 
 **Tools**
 
-* [Drumlin Extraction Toolbox](https://goo.gl/aEePPW)
-* [Drumlin Extraction Demo](https://goo.gl/HSVn8R)
+* [Drumlin Extraction Toolbox Download](https://goo.gl/aEePPW)
+* [Drumlin Extraction Toolbox Demo](https://goo.gl/HSVn8R)
 
 <h2 id="wetland-connectivity">2017 - Hydrology and Earth System Sciences</h2>
 
@@ -27,4 +27,5 @@ Wu, Q. and C.R. Lane. 2017. Delineating wetland catchments and modeling hydrolog
 
 **Tools**
 
-* [Wetland Hydrology Analyst](https://goo.gl/forms/6Oy0uWODT6YtSisI2)
+* [Wetland Hydrology Analyst Download](https://goo.gl/forms/6Oy0uWODT6YtSisI2)
+* [Wetland Hydrology Analyst Demo](https://goo.gl/WuaZVJ)

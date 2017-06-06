@@ -8,7 +8,8 @@ Wang, S., Q. Wu, and D. Ward 2017. Automated extraction and characterization of 
 
 **Maps**
 
-* [Mapping New York Drumlin Field](http://gistools.github.io#drumlin)
+* [New York Drumlin Field Maps](http://gistools.github.io#drumlin)
+* [New York Drumlin Field 2-m DEM (2.64 GB)](http://spatial.binghamton.edu/files/data/new_york_drumlin_field_dem_2m.zip)
 
 **Tools**
 

@@ -18,7 +18,7 @@ Wang, S., **Q. Wu**, and D. Ward 2017. Automated extraction and characterization
 
 <h2 id="wetland-connectivity">2017 - Hydrology and Earth System Sciences</h2>
 
-**Wu, Q.** and C.R. Lane. 2017. Delineating wetland catchments and modeling hydrologic connectivity using LiDAR data and aerial imagery. *Hydrology and Earth Systems Sciences Discussion*. DOI: [10.5194/hess-2017-1](http://dx.doi.org/10.5194/hess-2017-1)
+**Wu, Q.** and C.R. Lane. 2017. Delineating wetland catchments and modeling hydrologic connectivity using LiDAR data and aerial imagery. *Hydrology and Earth System Sciences*. 21: 1-17. DOI: [10.5194/hess-21-1-2017](https://doi.org/10.5194/hess-21-1-2017)
 
 **Maps**
 
@@ -28,4 +28,4 @@ Wang, S., **Q. Wu**, and D. Ward 2017. Automated extraction and characterization
 **Tools**
 
 * [Wetland Hydrology Analyst Download](https://goo.gl/forms/6Oy0uWODT6YtSisI2)
-* [Wetland Hydrology Analyst Demo](https://goo.gl/WuaZVJ)
+* [Wetland Hydrology Analyst Demo](http://go.wetlands.io/hess-2017-demo)

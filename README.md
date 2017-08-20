@@ -1,6 +1,7 @@
 # GISTools.github.io
 This is the website for sharing tools and maps developed for my peer-reviewed publications. Please contact me (<a href="http://wetlands.io/">Dr. Qiusheng Wu</a>) at <a href="mailto:wqs@binghamton.edu">wqs@binghamton.edu</a> if you have any questions.
 
+**!!! Please visit the new website at <http://GISHub.org>**
 
 <h2 id="drumlin">2017 - International Journal of Applied Earth Observation and Geoinformation</h2>
 

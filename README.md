@@ -14,7 +14,7 @@ Wang, S., **Q. Wu**, and D. Ward 2017. Automated extraction and characterization
 
 **Tools**
 
-* [Drumlin Extraction Toolbox Download](https://goo.gl/forms/owa2nbFhcYXw5SUv1)
+* [Drumlin Extraction Toolbox Download](https://gishub.org/drumlin-toolbox)
 * [Drumlin Extraction Toolbox Demo](http://go.wetlands.io/drumlin)
 
 <h2 id="wetland-connectivity">2017 - Hydrology and Earth System Sciences</h2>
@@ -28,5 +28,5 @@ Wang, S., **Q. Wu**, and D. Ward 2017. Automated extraction and characterization
 
 **Tools**
 
-* [Wetland Hydrology Analyst Download](https://goo.gl/forms/6Oy0uWODT6YtSisI2)
+* [Wetland Hydrology Analyst Download](https://gishub.org/wetland-hydro-analyst)
 * [Wetland Hydrology Analyst Demo](http://go.wetlands.io/hess-2017-demo)

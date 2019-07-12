@@ -28,5 +28,5 @@ Wang, S., **Q. Wu**, and D. Ward 2017. Automated extraction and characterization
 
 **Tools**
 
-* [Wetland Hydrology Analyst Download](https://gishub.org/wetland-hydro-analyst)
-* [Wetland Hydrology Analyst Demo](http://go.wetlands.io/hess-2017-demo)
+* [Wetland Hydrology Analyst Download](https://doi.org/10.6084/m9.figshare.8866025)
+* [Wetland Hydrology Analyst Demo](https://www.youtube.com/watch?v=Sqqbtj3j5Sg)

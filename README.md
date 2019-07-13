@@ -1,5 +1,5 @@
 # GISTools.github.io
-This is the website for sharing tools and maps developed for my peer-reviewed publications. Please contact me (<a href="http://wetlands.io/">Qiusheng Wu</a>) at <a href="mailto:qwu18@utk.edu">qwu18@utk.edu</a> if you have any questions.
+This is the website for sharing tools and maps developed for my peer-reviewed publications. Please contact me (<a href="https://wetlands.io/">Qiusheng Wu</a>) at <a href="mailto:qwu18@utk.edu">qwu18@utk.edu</a> if you have any questions.
 
 **!!! This website is no longer updated. Please visit [Figshare](https://figshare.com/authors/Qiusheng_Wu/6941777) for updates.**
 
@@ -14,8 +14,8 @@ Wang, S., **Q. Wu**, and D. Ward 2017. Automated extraction and characterization
 
 **Tools**
 
-* [Drumlin Extraction Toolbox Download](https://gishub.org/drumlin-toolbox)
-* [Drumlin Extraction Toolbox Demo](http://go.wetlands.io/drumlin)
+* [Drumlin Extraction Toolbox Download](https://doi.org/10.6084/m9.figshare.8866400)
+* [Drumlin Extraction Toolbox Demo](https://www.youtube.com/watch?v=hzx3bUap_5E)
 
 <h2 id="wetland-connectivity">2017 - Hydrology and Earth System Sciences</h2>
 
